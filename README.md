@@ -5,6 +5,21 @@ Whether it's tracking packages or automating everyday tasks, this repository is 
   
 Anything can happen here!
 
+## ✨ What is *Vibe Coding*?
+
+**Vibe coding** is the art of writing code that feels good — where functionality meets flow.  
+It's about building scripts, tools, or automation that solve problems with simplicity and style,  
+whether it's tracking packages, tweaking workflows, or just experimenting with ideas.
+
+> It’s not just about code that *works* — it’s code that *feels right*.
+
+### 🧠 Core Principles
+- **Flow over fluff** – Practical, focused, and minimal.
+- **Creativity meets utility** – Solving real problems in your own way.
+- **Clean, readable code** – So future-you (and others) can vibe with it too.
+
+---
+
 ## ✍️ Authors
 🧑‍💻 Tomica Kaniski  
 🤖 ChatGPT (OpenAI)
