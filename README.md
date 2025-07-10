@@ -1,4 +1,4 @@
-# 🚚 vibe-coding repository
+# 🚚 Vibe Coding repository
 
 **Inspired by an episode from ["Scott and Mark Learn To..."](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSf4XZvYgZPUXgSrfzBN26pf) series of podcasts by Scott Hanselman and Mark Russinovich.**  
 
