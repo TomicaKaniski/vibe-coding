@@ -33,3 +33,10 @@ Vibe-coded with the help of ChatGPT (OpenAI), during a rainy, summer day of 2025
   -trackingFile ".\tracking-numbers.txt" `
   -csvPath ".\ICE_Event_RIC_Kombinationen.csv" `
   -apiBaseUrl "https://api-eu.dhl.com/track/shipments?trackingNumber="
+
+## ✍️ Authors
+Tomica Kaniski – idea
+ChatGPT (OpenAI) – coding assistant and documentation support
+
+## 📜 License
+This project is licensed under the [WTFPL License](http://www.wtfpl.net) – feel free to use, modify, and share.
