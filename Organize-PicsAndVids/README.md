@@ -1,4 +1,4 @@
-# Pics and Videos Organizer (PowerShell)
+# Pictures and Videos Organizer (PowerShell)
 
 PowerShell script to automatically organize your pictures and videos into folders named by their creation or metadata date — cleanly sorting your media by day with minimal hassle.  
 
@@ -34,3 +34,4 @@ Vibe-coded with the help of ChatGPT (OpenAI), during a bright, organized summer 
 This project is licensed under the [WTFPL License](http://www.wtfpl.net) – feel free to use, modify, and share.  
 
 <center><a href="http://www.wtfpl.net/"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png" width="80" height="15" alt="WTFPL" /></a></center>
+
