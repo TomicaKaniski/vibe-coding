@@ -2,7 +2,7 @@
 
 PowerShell script to automatically organize your pictures and videos into folders named by their creation or metadata date — cleanly sorting your media by day with minimal hassle.  
 
-Vibe-coded with the help of ChatGPT (OpenAI), during a bright, organized morning of 2025.
+Vibe-coded with the help of ChatGPT (OpenAI), during a bright, organized summer evening of 2025.
 
 ## ✨ Features
 
@@ -32,4 +32,5 @@ Vibe-coded with the help of ChatGPT (OpenAI), during a bright, organized morning
 
 ## 📜 License
 This project is licensed under the [WTFPL License](http://www.wtfpl.net) – feel free to use, modify, and share.  
+
 <center><a href="http://www.wtfpl.net/"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png" width="80" height="15" alt="WTFPL" /></a></center>
