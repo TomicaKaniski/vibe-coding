@@ -41,4 +41,9 @@ Vibe-coded with the help of ChatGPT (OpenAI), during a rainy, summer day of 2025
 
 ## 📜 License
 This project is licensed under the [WTFPL License](http://www.wtfpl.net) – feel free to use, modify, and share.  
-<center><a href="http://www.wtfpl.net/"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png" width="80" height="15" alt="WTFPL" /></a></center>
+
+<p align="center">
+  <a href="https://www.wtfpl.net/">
+    <img src="https://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png" width="80" height="15" alt="WTFPL" />
+  </a>
+</p>
