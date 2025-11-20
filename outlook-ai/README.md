@@ -24,7 +24,7 @@ as **Work**, **Personal**, **Finance**, **Newsletter**, **Social**,
 ### 1. Clone the repository
 
 ``` bash
-git clone <your-repo-url>
+git clone https://github.com/TomicaKaniski/vibe-coding/
 cd outlook-ai
 ```
 
@@ -84,3 +84,16 @@ The script will: - Read all uncategorized emails in your Outlook Inbox
 -   Ensure your AI endpoint and API key are valid.
 -   Adjust `BATCH_SIZE` for large inboxes.
 -   Logging level can be changed via `.env`.
+
+## ✍️ Authors
+🧑‍💻 Tomica Kaniski  
+🤖 ChatGPT (OpenAI)
+
+## 📜 License
+This project is licensed under the [WTFPL License](http://www.wtfpl.net) – feel free to use, modify, and share.  
+
+<p align="center">
+  <a href="https://www.wtfpl.net/">
+    <img src="https://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png" width="80" height="15" alt="WTFPL" />
+  </a>
+</p>
